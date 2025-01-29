@@ -1,1 +1,1 @@
-© SUBZERO MD W.A BOT ❄️
+© MIDKING01 MD W.B BOT ❤️‍🔥🇿🇼
