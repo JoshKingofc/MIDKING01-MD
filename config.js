@@ -8,7 +8,7 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "enter your subzero md session id here",
  
-PREFIX: process.env.PREFIX || "#",
+PREFIX: process.env.PREFIX || "$",
 // Enter Your Desired Prefix
 
 BOT_NAME: process.env.BOT_NAME || "『 Joshking01 』",
@@ -29,7 +29,7 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "263716729222",
 OWNER_NAME: process.env.OWNER_NAME || "JoshKing",
 // Set Footer
 
-DESCRIPTION: process.env.DESCRIPTION || "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ JoshKing01*",
+DESCRIPTION: process.env.DESCRIPTION || "*© Great 🇿🇼JoshKing01*",
 // add bot owner name   
  
 ALIVE_IMG: process.env.ALIVE_IMG || "https://b.top4top.io/p_3291qwfqu0.jpg",
@@ -53,7 +53,7 @@ AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS__MSG || "*[❄️] Hi there, MIDKING01-MD viewed your Status🎐*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS__MSG || "*[🇿🇼❤️‍🔥] Hi there, MIDKING01-MD viewed your Status🎐*",
 
 // set the auto reply massage on status reply    
 MODE: process.env.MODE || "public",
